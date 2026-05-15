@@ -1,2 +1,2 @@
-# synaptech-dot-ltd
-Public website for Synaptech Solutions Ltd.
+# Synetic Labs
+Public website for Synetic Labs Autonomous Drone Racing Team
